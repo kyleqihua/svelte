@@ -1,7 +1,7 @@
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a href="/comments">Comments</a></li>
   <li><a href="/counter">Counter</a></li>
+  <li><a href="/comments">Comments</a></li>
 </ul>
 
 <style>

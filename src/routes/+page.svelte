@@ -3,8 +3,8 @@
 
 <style>
   p {
-    background-color: skyblue;
-    border-radius: 10px;
-    padding: 10px;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
   }
 </style>
