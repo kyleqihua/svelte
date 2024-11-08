@@ -8,5 +8,11 @@
     display: flex;
     justify-content: space-evenly;
     background-color: aliceblue;
+    list-style-type: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: blue;
   }
 </style>
