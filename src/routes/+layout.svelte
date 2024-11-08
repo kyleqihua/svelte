@@ -8,8 +8,3 @@
 <slot />
 
  
-<!-- <style>
-  body {
-    font-family: monospace;
-  }
-</style> -->

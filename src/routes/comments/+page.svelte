@@ -29,8 +29,7 @@
   <input type="text" bind:value={newCommentTitle}/>
   <button>Add Comment</button>
 </form>
-<!-- <p>{newCommentTitle}</p> -->
-<!-- special syntax for each in svelte -->
+<!-- special syntax in svelte to loop through the comments -->
 <!-- need to add dollar sign to access the store -->
 {#each $CommentsStore as comment(comment.id)}
   <Comment {...comment}/>
